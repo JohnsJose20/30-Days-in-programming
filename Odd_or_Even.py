@@ -1,5 +1,5 @@
 '''Authore: Johns Jose
-Date: 19-10-2024
+Date: 26-10-2024
 Description: write a program to check whether the number is even or odd'''
 
 number = int(input("Enter a number: "))
