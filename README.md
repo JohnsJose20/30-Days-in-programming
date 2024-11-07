@@ -1,5 +1,3 @@
-# 30-Days-of-python-programming
-To learn Python together 
-# lets lern python together 
-## Be considarate and help each other
-![17310037645712528141128956850229](https://github.com/user-attachments/assets/7a82aa3e-0c36-4f94-955b-920f59e6909a)
+# Random Codes
+To learn Python
+![17310039424936137673027338253308](https://github.com/user-attachments/assets/40509e84-8c21-4f7e-915b-5840de013f5d)
